@@ -1,0 +1,10 @@
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\bin\Debug\KartuStockAccess.exe.config
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\bin\Debug\KartuStockAccess.exe
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\bin\Debug\KartuStockAccess.pdb
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.Properties.Resources.resources
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.csproj.GenerateResource.Cache
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.exe
+c:\users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.pdb
+C:\Users\dennis\Documents\Visual Studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.csprojResolveAssemblyReference.cache
+C:\Users\dennis\Documents\Visual Studio 2013\Projects\KartuStockAccess\KartuStockAccess\bin\Debug\Database2.mdb
+C:\Users\dennis\documents\visual studio 2013\Projects\KartuStockAccess\KartuStockAccess\obj\Debug\KartuStockAccess.UserManagement.resources
